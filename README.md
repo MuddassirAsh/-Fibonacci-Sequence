@@ -1,1 +1,1 @@
-# Fibonacci-Sequence Calculator
+# Fibonacci Sequence Calculator
